@@ -21,7 +21,7 @@ Execute Django admin and create details for 10 books
 
 ## PROGRAM
 
-```py
+```
 admin.py
 from django.contrib import admin
 from .models import Employee,EmployeeAdmin
@@ -42,7 +42,7 @@ class EmployeeAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-
+![](./er%20diadram.jpg)
 ![](./Screenshot%202024-03-12%20180111.png)
 
 
